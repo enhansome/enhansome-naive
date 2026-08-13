@@ -1,0 +1,606 @@
+{
+  "items": [
+    {
+      "description": "Please see CONTRIBUTING.md.",
+      "items": [],
+      "title": "Contributing"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "List"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Soybean Admin",
+          "description": "a beautiful vue admin template, based on Vue3 + Vite + Naive UI + TypeScript.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T10:11:13Z",
+            "owner": "soybeanjs",
+            "repo": "soybean-admin",
+            "stars": 14798
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Naive UI Admin",
+          "description": "A free open source out-of-box UI solution for enterprise applications.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vue",
+            "last_commit": "2026-01-19T13:32:38Z",
+            "owner": "jekip",
+            "repo": "naive-ui-admin",
+            "stars": 5892
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Vue Naive Admin",
+          "description": "A lightweight vue admin template, base on Vue 3 + Vite + Pinia + Naive UI，free and elegant.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vue",
+            "last_commit": "2026-07-21T07:33:39Z",
+            "owner": "zclzone",
+            "repo": "vue-naive-admin",
+            "stars": 3980
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "zce/fearless",
+          "description": "A dashboard scaffolding based on Vue.js 3.x & TypeScript created by Vite.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T03:42:06Z",
+            "owner": "zce",
+            "repo": "fearless",
+            "stars": 1308
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Robot Admin",
+          "description": "A modern, enterprise-grade, out-of-the-box, plugin-level multi-modal architecture admin management system.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vue",
+            "last_commit": "2026-08-09T16:16:47Z",
+            "owner": "ChenyCHENYU",
+            "repo": "Robot_Admin",
+            "stars": 1015
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Admin Work",
+          "description": "A free open source, powerful, easy to use, beautiful back-office management system solution.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vue",
+            "last_commit": "2025-06-17T01:45:32Z",
+            "owner": "qingqingxuan",
+            "repo": "admin-work",
+            "stars": 654
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "happyboot-tiger",
+          "description": "A backend management template, base on Vue 3 + Vite 2 + Naive UI.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vue",
+            "last_commit": "2024-12-27T00:27:25Z",
+            "owner": "pumelotea",
+            "repo": "happyboot-tiger",
+            "stars": 475
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tsx-naive-admin",
+          "description": "A backend management template based on Vue 3 + Naive UI + TSX + Vite.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-04-25T07:20:21Z",
+            "owner": "WalkAlone0325",
+            "repo": "tsx-naive-admin",
+            "stars": 111
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "zmtlwzy-admin",
+          "description": "A free open source, original style admin template.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-05-28T10:14:14Z",
+            "owner": "zmtlwzy",
+            "repo": "zmtlwzy-admin",
+            "stars": 94
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Dolphin Admin",
+          "description": "A light-weight and elegant back-end management template based on Vue 3 + Vite + Naive UI + TypeScript + TailwindCSS.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vue",
+            "last_commit": "2024-04-11T12:42:07Z",
+            "owner": "dolphin-admin",
+            "repo": "vue-admin",
+            "stars": 66
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "YummyAdmin",
+          "description": "📈 Vue 3 admin panel template based on Vue3 + NaiveUI + Tailwind + Pinia + MSW + TS.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vue",
+            "last_commit": "2026-06-16T07:26:33Z",
+            "owner": "doroudi",
+            "repo": "YummyAdmin",
+            "stars": 66
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pear-Admin-Naive",
+          "description": "A free open source admin template, base on Typescript + Vue3(script setup) + Vite + Naive UI + umi-request(Fetch).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vue",
+            "last_commit": "2022-05-21T15:27:12Z",
+            "owner": "pearadmin",
+            "repo": "pear-admin-naive",
+            "stars": 36
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BetterNCM Elaina Theme",
+          "description": "A NetEase Cloud Music theme plugin, built on BetterNCM platform, utilizing Naive UI for the frontend UI.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vue",
+            "last_commit": "2024-12-31T10:16:31Z",
+            "owner": "keiko233",
+            "repo": "elaina-theme-netease",
+            "stars": 31
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Walnut Admin",
+          "description": "A free open source fullstack admin template project based on Typescript. Vue3 + Vite + Naive UI + Nestjs + mongodb.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vue",
+            "last_commit": "2026-07-26T04:26:50Z",
+            "owner": "walnut-admin",
+            "repo": "walnut-admin-client",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "Admin Projects Using NaiveUI"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Apache DolphinScheduler",
+          "description": "A distributed and easy-to-extend visual workflow scheduler system.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-12T02:12:58Z",
+            "owner": "apache",
+            "repo": "dolphinscheduler",
+            "stars": 14419
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OpenDataV",
+          "description": "A cool drag and drop, low code data visualization framework Vue3 + Vite + TypeScript + Naive UI",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-11T19:35:04Z",
+            "owner": "AnsGoo",
+            "repo": "openDataV",
+            "stars": 1363
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "My RIME",
+          "description": "Online Chinese IME powered by RIME.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-07-19T18:38:59Z",
+            "owner": "LibreService",
+            "repo": "my_rime",
+            "stars": 430
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vue3-cloud-music",
+          "description": "Music streaming. Vue3 + Vite + TypeScript + Naive UI",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vue",
+            "last_commit": "2025-09-19T03:50:55Z",
+            "owner": "path-yu",
+            "repo": "vue3-cloud-music",
+            "stars": 356
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "free-core",
+          "description": "A drag and drop cross end page design core, base on Vue 3 + Vite + Naive UI.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2022-04-23T13:26:18Z",
+            "owner": "eamesh",
+            "repo": "free-core",
+            "stars": 275
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Aisen60/vant-theme",
+          "description": "Online theme preview tool built on vant UI",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vue",
+            "last_commit": "2026-08-07T20:06:26Z",
+            "owner": "aisen60",
+            "repo": "vant-theme",
+            "stars": 112
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SymPy Beta",
+          "description": "An answer engine without backend, powered by SymPy and Pyodide.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-03T20:18:40Z",
+            "owner": "eagleoflqj",
+            "repo": "sympy_beta",
+            "stars": 73
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sweetforms",
+          "description": "A feature rich schema-based form generator package build with Naive UI + Typescript.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-10-15T15:34:08Z",
+            "owner": "ChronicStone",
+            "repo": "vue-sweetforms",
+            "stars": 29
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "naive-ui-form-creator",
+          "description": "A visual form generator with rich functions based on naive UI.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vue",
+            "last_commit": "2022-07-15T01:52:04Z",
+            "owner": "doom-9-zz",
+            "repo": "naive-ui-form-creator",
+            "stars": 16
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "k8sPlayground",
+          "description": "A k8s manage tools,using Naive UI + TypeScript + NestJS + electorn.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-12-12T03:49:22Z",
+            "owner": "weibaohui",
+            "repo": "k8s-playgrounds",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vitesse-modular-naiveui",
+          "description": "A modular template based on Vitesse with many features.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2022-12-06T22:03:20Z",
+            "owner": "arijs",
+            "repo": "vitesse-modular-naiveui",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "issue-helper",
+          "description": "NaiveUI issue submit template project.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vue",
+            "last_commit": "2022-08-17T13:07:29Z",
+            "owner": "naive-ui",
+            "repo": "issue-helper",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "QRCode Generator",
+          "description": "A QRCode generator site based on Naive UI + TypeScript.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vue",
+            "last_commit": "2023-11-03T17:27:19Z",
+            "owner": "recallwei",
+            "repo": "qrcode-generator",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Listify",
+          "description": "Personal media collection tracker build with Vue 3 + Naive UI + Fastify.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-07-19T14:15:10Z",
+            "owner": "nightrunner91",
+            "repo": "listify",
+            "stars": 3
+          }
+        }
+      ],
+      "title": "Other Projects Using NaiveUI"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "X.Naive-UI",
+          "description": "An extension to the Naive-UI component library, that enables slots and template style API for DataTable/Dropdown/Menu/Select/Tree.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-02-05T11:56:33Z",
+            "owner": "fudiwei",
+            "repo": "x.naive-ui",
+            "stars": 49
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "naive-ui-components-plus",
+          "description": "A general business component library based on Naive-UI and Robot Admin, out-of-the-box with comprehensive documentation and clear examples.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-09T08:46:52Z",
+            "owner": "ChenyCHENYU",
+            "repo": "naive-ui-components",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Naive Gradient Picker",
+          "description": "A lightweight NaiveUI component for selecting gradients based on CSS gradient syntax",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vue",
+            "last_commit": "2022-11-22T19:26:55Z",
+            "owner": "ElyaConrad",
+            "repo": "naive-gradient-picker",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "Third-party components for NaiveUI"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "xicons",
+          "description": "SVG icon integrated component Library.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-11-16T13:26:56Z",
+            "owner": "07akioni",
+            "repo": "xicons",
+            "stars": 1485
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vueuc",
+          "description": "Utils Components for Vue.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-09-13T07:28:30Z",
+            "owner": "07akioni",
+            "repo": "vueuc",
+            "stars": 314
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "treemate",
+          "description": "All in one solution for tree structure in component developling.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-03-22T15:49:23Z",
+            "owner": "07akioni",
+            "repo": "treemate",
+            "stars": 157
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vooks",
+          "description": "Utils Composable for Vue.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-03-06T23:00:15Z",
+            "owner": "07akioni",
+            "repo": "vooks",
+            "stars": 48
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "evtd",
+          "description": "Event delegation with native events and extended events in a small library.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-03-07T03:58:28Z",
+            "owner": "07akioni",
+            "repo": "evtd",
+            "stars": 25
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vdirs",
+          "description": "Helper directives for Vue.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-03-06T01:06:35Z",
+            "owner": "07akioni",
+            "repo": "vdirs",
+            "stars": 15
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "naive-ui-intelligence",
+          "description": "Intelligence Code of Naive UI for VS Code.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-02-11T08:49:08Z",
+            "owner": "tu6ge",
+            "repo": "naive-ui-intellisense",
+            "stars": 15
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vite-plugin-naive-ui-md",
+          "description": "Markdown for Vite with Naive UI Styles.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2022-12-30T06:32:10Z",
+            "owner": "Volankey",
+            "repo": "vite-plugin-naive-ui-md",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "naive-ui-snippets",
+          "description": "Code Snippets of Naive UI for VS Code.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2021-07-16T08:00:42Z",
+            "owner": "JimFirst",
+            "repo": "naive-ui-snippets",
+            "stars": 7
+          }
+        }
+      ],
+      "title": "Related To NaiveUI"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T12:27:44.261Z",
+    "original_repository": "naive-ui/awesome-naive",
+    "original_repository_sha": "f91499676b269793d7f7dfebdfb58b0fd8643b82",
+    "enhanced_repository": "enhansome/enhansome-naive",
+    "enhanced_repository_description": null,
+    "title": "Awesome naive with stars"
+  }
+}
