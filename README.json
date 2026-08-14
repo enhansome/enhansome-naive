@@ -24,7 +24,7 @@
             "last_commit": "2026-08-13T10:11:13Z",
             "owner": "soybeanjs",
             "repo": "soybean-admin",
-            "stars": 14798
+            "stars": 14821
           }
         },
         {
@@ -38,7 +38,7 @@
             "last_commit": "2026-01-19T13:32:38Z",
             "owner": "jekip",
             "repo": "naive-ui-admin",
-            "stars": 5892
+            "stars": 5891
           }
         },
         {
@@ -192,7 +192,7 @@
             "last_commit": "2024-12-31T10:16:31Z",
             "owner": "keiko233",
             "repo": "elaina-theme-netease",
-            "stars": 31
+            "stars": 32
           }
         },
         {
@@ -226,7 +226,7 @@
             "last_commit": "2026-08-12T02:12:58Z",
             "owner": "apache",
             "repo": "dolphinscheduler",
-            "stars": 14419
+            "stars": 14423
           }
         },
         {
@@ -476,7 +476,7 @@
             "last_commit": "2025-11-16T13:26:56Z",
             "owner": "07akioni",
             "repo": "xicons",
-            "stars": 1485
+            "stars": 1486
           }
         },
         {
@@ -596,7 +596,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T12:27:44.261Z",
+    "last_updated": "2026-08-14T12:24:46.925Z",
     "original_repository": "naive-ui/awesome-naive",
     "original_repository_sha": "f91499676b269793d7f7dfebdfb58b0fd8643b82",
     "enhanced_repository": "enhansome/enhansome-naive",
