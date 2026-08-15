@@ -24,7 +24,7 @@
             "last_commit": "2026-08-13T10:11:13Z",
             "owner": "soybeanjs",
             "repo": "soybean-admin",
-            "stars": 14821
+            "stars": 14824
           }
         },
         {
@@ -63,7 +63,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-12T03:42:06Z",
+            "last_commit": "2026-08-15T05:52:22Z",
             "owner": "zce",
             "repo": "fearless",
             "stars": 1308
@@ -226,7 +226,7 @@
             "last_commit": "2026-08-12T02:12:58Z",
             "owner": "apache",
             "repo": "dolphinscheduler",
-            "stars": 14423
+            "stars": 14424
           }
         },
         {
@@ -310,7 +310,7 @@
             "last_commit": "2026-08-03T20:18:40Z",
             "owner": "eagleoflqj",
             "repo": "sympy_beta",
-            "stars": 73
+            "stars": 72
           }
         },
         {
@@ -596,7 +596,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T12:24:46.925Z",
+    "last_updated": "2026-08-15T11:50:06.567Z",
     "original_repository": "naive-ui/awesome-naive",
     "original_repository_sha": "f91499676b269793d7f7dfebdfb58b0fd8643b82",
     "enhanced_repository": "enhansome/enhansome-naive",
