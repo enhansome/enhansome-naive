@@ -24,7 +24,7 @@
             "last_commit": "2026-08-13T10:11:13Z",
             "owner": "soybeanjs",
             "repo": "soybean-admin",
-            "stars": 14824
+            "stars": 14828
           }
         },
         {
@@ -38,7 +38,7 @@
             "last_commit": "2026-01-19T13:32:38Z",
             "owner": "jekip",
             "repo": "naive-ui-admin",
-            "stars": 5891
+            "stars": 5892
           }
         },
         {
@@ -226,7 +226,7 @@
             "last_commit": "2026-08-12T02:12:58Z",
             "owner": "apache",
             "repo": "dolphinscheduler",
-            "stars": 14424
+            "stars": 14427
           }
         },
         {
@@ -237,7 +237,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-11T19:35:04Z",
+            "last_commit": "2026-08-15T13:15:28Z",
             "owner": "AnsGoo",
             "repo": "openDataV",
             "stars": 1363
@@ -293,7 +293,7 @@
           "repo_info": {
             "archived": false,
             "language": "Vue",
-            "last_commit": "2026-08-07T20:06:26Z",
+            "last_commit": "2026-08-16T07:14:20Z",
             "owner": "aisen60",
             "repo": "vant-theme",
             "stars": 112
@@ -476,7 +476,7 @@
             "last_commit": "2025-11-16T13:26:56Z",
             "owner": "07akioni",
             "repo": "xicons",
-            "stars": 1486
+            "stars": 1487
           }
         },
         {
@@ -596,7 +596,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T11:50:06.567Z",
+    "last_updated": "2026-08-16T11:50:05.191Z",
     "original_repository": "naive-ui/awesome-naive",
     "original_repository_sha": "f91499676b269793d7f7dfebdfb58b0fd8643b82",
     "enhanced_repository": "enhansome/enhansome-naive",
