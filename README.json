@@ -24,7 +24,7 @@
             "last_commit": "2026-08-13T10:11:13Z",
             "owner": "soybeanjs",
             "repo": "soybean-admin",
-            "stars": 14826
+            "stars": 14832
           }
         },
         {
@@ -223,10 +223,10 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-12T02:12:58Z",
+            "last_commit": "2026-08-18T02:01:27Z",
             "owner": "apache",
             "repo": "dolphinscheduler",
-            "stars": 14429
+            "stars": 14432
           }
         },
         {
@@ -240,7 +240,7 @@
             "last_commit": "2026-08-15T13:15:28Z",
             "owner": "AnsGoo",
             "repo": "openDataV",
-            "stars": 1362
+            "stars": 1363
           }
         },
         {
@@ -254,7 +254,7 @@
             "last_commit": "2024-07-19T18:38:59Z",
             "owner": "LibreService",
             "repo": "my_rime",
-            "stars": 430
+            "stars": 431
           }
         },
         {
@@ -518,7 +518,7 @@
             "last_commit": "2023-03-06T23:00:15Z",
             "owner": "07akioni",
             "repo": "vooks",
-            "stars": 48
+            "stars": 47
           }
         },
         {
@@ -596,7 +596,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T11:53:28.438Z",
+    "last_updated": "2026-08-18T11:54:14.018Z",
     "original_repository": "naive-ui/awesome-naive",
     "original_repository_sha": "f91499676b269793d7f7dfebdfb58b0fd8643b82",
     "enhanced_repository": "enhansome/enhansome-naive",
