@@ -17,7 +17,7 @@
                 "last_commit": "2026-08-13T10:11:13Z",
                 "owner": "soybeanjs",
                 "repo": "soybean-admin",
-                "stars": 14837
+                "stars": 14849
               }
             },
             {
@@ -32,7 +32,7 @@
                 "last_commit": "2026-01-19T13:32:38Z",
                 "owner": "jekip",
                 "repo": "naive-ui-admin",
-                "stars": 5895
+                "stars": 5899
               }
             },
             {
@@ -92,7 +92,7 @@
                 "last_commit": "2025-06-17T01:45:32Z",
                 "owner": "qingqingxuan",
                 "repo": "admin-work",
-                "stars": 654
+                "stars": 655
               }
             },
             {
@@ -234,7 +234,7 @@
                 "last_commit": "2026-08-19T08:25:06Z",
                 "owner": "apache",
                 "repo": "dolphinscheduler",
-                "stars": 14434
+                "stars": 14437
               }
             },
             {
@@ -515,7 +515,7 @@
                 "archived": false,
                 "id": 302437452,
                 "language": "TypeScript",
-                "last_commit": "2025-09-13T07:28:30Z",
+                "last_commit": "2026-08-19T16:48:36Z",
                 "owner": "07akioni",
                 "repo": "vueuc",
                 "stars": 314
@@ -636,7 +636,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:44:07.674Z",
+    "last_updated": "2026-08-20T11:56:19.177Z",
     "original_repository": "naive-ui/awesome-naive",
     "original_repository_id": 385987904,
     "original_repository_sha": "f91499676b269793d7f7dfebdfb58b0fd8643b82",
