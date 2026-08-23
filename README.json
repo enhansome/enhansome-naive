@@ -17,7 +17,7 @@
                 "last_commit": "2026-08-13T10:11:13Z",
                 "owner": "soybeanjs",
                 "repo": "soybean-admin",
-                "stars": 14868
+                "stars": 14869
               }
             },
             {
@@ -231,10 +231,10 @@
                 "archived": false,
                 "id": 173335706,
                 "language": "Java",
-                "last_commit": "2026-08-21T07:26:33Z",
+                "last_commit": "2026-08-22T14:33:12Z",
                 "owner": "apache",
                 "repo": "dolphinscheduler",
-                "stars": 14441
+                "stars": 14439
               }
             },
             {
@@ -264,7 +264,7 @@
                 "last_commit": "2024-07-19T18:38:59Z",
                 "owner": "LibreService",
                 "repo": "my_rime",
-                "stars": 432
+                "stars": 433
               }
             },
             {
@@ -636,7 +636,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T11:50:46.670Z",
+    "last_updated": "2026-08-23T11:50:37.789Z",
     "original_repository": "naive-ui/awesome-naive",
     "original_repository_id": 385987904,
     "original_repository_sha": "f91499676b269793d7f7dfebdfb58b0fd8643b82",
