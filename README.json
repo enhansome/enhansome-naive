@@ -17,7 +17,7 @@
                 "last_commit": "2026-08-13T10:11:13Z",
                 "owner": "soybeanjs",
                 "repo": "soybean-admin",
-                "stars": 14869
+                "stars": 14878
               }
             },
             {
@@ -32,7 +32,7 @@
                 "last_commit": "2026-01-19T13:32:38Z",
                 "owner": "jekip",
                 "repo": "naive-ui-admin",
-                "stars": 5900
+                "stars": 5902
               }
             },
             {
@@ -47,7 +47,7 @@
                 "last_commit": "2026-07-21T07:33:39Z",
                 "owner": "zclzone",
                 "repo": "vue-naive-admin",
-                "stars": 3982
+                "stars": 3983
               }
             },
             {
@@ -137,7 +137,7 @@
                 "last_commit": "2023-05-28T10:14:14Z",
                 "owner": "zmtlwzy",
                 "repo": "zmtlwzy-admin",
-                "stars": 94
+                "stars": 95
               }
             },
             {
@@ -234,7 +234,7 @@
                 "last_commit": "2026-08-22T14:33:12Z",
                 "owner": "apache",
                 "repo": "dolphinscheduler",
-                "stars": 14439
+                "stars": 14441
               }
             },
             {
@@ -636,7 +636,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T11:50:37.789Z",
+    "last_updated": "2026-08-24T11:57:14.912Z",
     "original_repository": "naive-ui/awesome-naive",
     "original_repository_id": 385987904,
     "original_repository_sha": "f91499676b269793d7f7dfebdfb58b0fd8643b82",
