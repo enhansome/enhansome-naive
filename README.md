@@ -34,7 +34,7 @@ Please see [CONTRIBUTING.md](https://github.com/naive-ui/awesome-naive/blob/main
 
 ### Admin Projects Using NaiveUI
 
-* [Soybean Admin](https://github.com/honghuangdc/soybean-admin) ⭐ 14,876 | 🐛 6 | 🌐 TypeScript | 📅 2026-08-13 - a beautiful vue admin template, based on Vue3 + Vite + Naive UI + TypeScript.
+* [Soybean Admin](https://github.com/honghuangdc/soybean-admin) ⭐ 14,878 | 🐛 6 | 🌐 TypeScript | 📅 2026-08-13 - a beautiful vue admin template, based on Vue3 + Vite + Naive UI + TypeScript.
 * [Naive UI Admin](https://github.com/jekip/naive-ui-admin) ⭐ 5,902 | 🐛 36 | 🌐 Vue | 📅 2026-01-19 - A free open source out-of-box UI solution for enterprise applications.
 * [Vue Naive Admin](https://github.com/zclzone/vue-naive-admin) ⭐ 3,983 | 🐛 1 | 🌐 Vue | 📅 2026-07-21 - A lightweight vue admin template, base on Vue 3 + Vite + Pinia + Naive UI，free and elegant.
 * [zce/fearless](https://github.com/zce/fearless) ⭐ 1,308 | 🐛 15 | 🌐 TypeScript | 📅 2026-08-15 - A dashboard scaffolding based on Vue.js 3.x & TypeScript created by Vite.
@@ -53,9 +53,9 @@ Please see [CONTRIBUTING.md](https://github.com/naive-ui/awesome-naive/blob/main
 
 ### Other Projects Using NaiveUI
 
-* [Apache DolphinScheduler](https://github.com/apache/dolphinscheduler) ⭐ 14,441 | 🐛 144 | 🌐 Java | 📅 2026-08-25 - A distributed and easy-to-extend visual workflow scheduler system.
+* [Apache DolphinScheduler](https://github.com/apache/dolphinscheduler) ⭐ 14,444 | 🐛 144 | 🌐 Java | 📅 2026-08-25 - A distributed and easy-to-extend visual workflow scheduler system.
 * [OpenDataV](https://github.com/AnsGoo/openDataV) ⭐ 1,363 | 🐛 4 | 🌐 TypeScript | 📅 2026-08-15 - A cool drag and drop, low code data visualization framework Vue3 + Vite + TypeScript + Naive UI
-* [My RIME](https://github.com/LibreService/my_rime) ⭐ 433 | 🐛 0 | 🌐 TypeScript | 📅 2024-07-19 - Online Chinese IME powered by RIME.
+* [My RIME](https://github.com/LibreService/my_rime) ⭐ 434 | 🐛 0 | 🌐 TypeScript | 📅 2024-07-19 - Online Chinese IME powered by RIME.
 * [vue3-cloud-music](https://github.com/path-yu/vue3-cloud-music) ⭐ 356 | 🐛 0 | 🌐 Vue | 📅 2025-09-19 - Music streaming. Vue3 + Vite + TypeScript + Naive UI
 * [free-core](https://github.com/eamesh/free-core) ⭐ 275 | 🐛 0 | 🌐 TypeScript | 📅 2022-04-23 - A drag and drop cross end page design core, base on Vue 3 + Vite + Naive UI.
 * [Aisen60/vant-theme](https://github.com/Aisen60/vant-theme) ⭐ 112 | 🐛 12 | 🌐 Vue | 📅 2026-08-21 - Online theme preview tool built on vant UI
@@ -82,7 +82,7 @@ Please see [CONTRIBUTING.md](https://github.com/naive-ui/awesome-naive/blob/main
 
 ### Related To NaiveUI
 
-* [xicons](https://github.com/07akioni/xicons) ⭐ 1,489 | 🐛 56 | 🌐 JavaScript | 📅 2025-11-16 - SVG icon integrated component Library.
+* [xicons](https://github.com/07akioni/xicons) ⭐ 1,490 | 🐛 56 | 🌐 JavaScript | 📅 2025-11-16 - SVG icon integrated component Library.
 * [vueuc](https://github.com/07akioni/vueuc) ⭐ 314 | 🐛 30 | 🌐 TypeScript | 📅 2026-08-19 - Utils Components for Vue.
 * [treemate](https://github.com/07akioni/treemate) ⭐ 157 | 🐛 12 | 🌐 TypeScript | 📅 2024-03-22 - All in one solution for tree structure in component developling.
 * [vooks](https://github.com/07akioni/vooks) ⭐ 47 | 🐛 11 | 🌐 TypeScript | 📅 2023-03-06 - Utils Composable for Vue.
