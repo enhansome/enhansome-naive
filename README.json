@@ -39,7 +39,7 @@
                 "last_commit": "2026-08-13T10:11:13Z",
                 "owner": "soybeanjs",
                 "repo": "soybean-admin",
-                "stars": 14877
+                "stars": 14876
               }
             },
             {
@@ -253,7 +253,7 @@
                 "archived": false,
                 "id": 173335706,
                 "language": "Java",
-                "last_commit": "2026-08-24T13:04:12Z",
+                "last_commit": "2026-08-25T02:26:10Z",
                 "owner": "apache",
                 "repo": "dolphinscheduler",
                 "stars": 14441
@@ -525,7 +525,7 @@
                 "last_commit": "2025-11-16T13:26:56Z",
                 "owner": "07akioni",
                 "repo": "xicons",
-                "stars": 1488
+                "stars": 1489
               }
             },
             {
@@ -658,7 +658,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:26:37.287Z",
+    "last_updated": "2026-08-25T06:23:27.950Z",
     "original_repository": "naive-ui/awesome-naive",
     "original_repository_id": 385987904,
     "original_repository_sha": "f91499676b269793d7f7dfebdfb58b0fd8643b82",
