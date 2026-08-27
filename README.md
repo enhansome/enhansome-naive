@@ -34,7 +34,7 @@ Please see [CONTRIBUTING.md](https://github.com/naive-ui/awesome-naive/blob/main
 
 ### Admin Projects Using NaiveUI
 
-* [Soybean Admin](https://github.com/honghuangdc/soybean-admin) ⭐ 14,895 | 🐛 6 | 🌐 TypeScript | 📅 2026-08-13 - a beautiful vue admin template, based on Vue3 + Vite + Naive UI + TypeScript.
+* [Soybean Admin](https://github.com/honghuangdc/soybean-admin) ⭐ 14,897 | 🐛 6 | 🌐 TypeScript | 📅 2026-08-13 - a beautiful vue admin template, based on Vue3 + Vite + Naive UI + TypeScript.
 * [Naive UI Admin](https://github.com/jekip/naive-ui-admin) ⭐ 5,904 | 🐛 36 | 🌐 Vue | 📅 2026-01-19 - A free open source out-of-box UI solution for enterprise applications.
 * [Vue Naive Admin](https://github.com/zclzone/vue-naive-admin) ⭐ 3,984 | 🐛 1 | 🌐 Vue | 📅 2026-07-21 - A lightweight vue admin template, base on Vue 3 + Vite + Pinia + Naive UI，free and elegant.
 * [zce/fearless](https://github.com/zce/fearless) ⭐ 1,308 | 🐛 15 | 🌐 TypeScript | 📅 2026-08-26 - A dashboard scaffolding based on Vue.js 3.x & TypeScript created by Vite.
