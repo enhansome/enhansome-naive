@@ -34,9 +34,9 @@ Please see [CONTRIBUTING.md](https://github.com/naive-ui/awesome-naive/blob/main
 
 ### Admin Projects Using NaiveUI
 
-* [Soybean Admin](https://github.com/honghuangdc/soybean-admin) ⭐ 14,904 | 🐛 6 | 🌐 TypeScript | 📅 2026-08-13 - a beautiful vue admin template, based on Vue3 + Vite + Naive UI + TypeScript.
+* [Soybean Admin](https://github.com/honghuangdc/soybean-admin) ⭐ 14,905 | 🐛 6 | 🌐 TypeScript | 📅 2026-08-13 - a beautiful vue admin template, based on Vue3 + Vite + Naive UI + TypeScript.
 * [Naive UI Admin](https://github.com/jekip/naive-ui-admin) ⭐ 5,904 | 🐛 36 | 🌐 Vue | 📅 2026-01-19 - A free open source out-of-box UI solution for enterprise applications.
-* [Vue Naive Admin](https://github.com/zclzone/vue-naive-admin) ⭐ 3,984 | 🐛 1 | 🌐 Vue | 📅 2026-07-21 - A lightweight vue admin template, base on Vue 3 + Vite + Pinia + Naive UI，free and elegant.
+* [Vue Naive Admin](https://github.com/zclzone/vue-naive-admin) ⭐ 3,985 | 🐛 1 | 🌐 Vue | 📅 2026-07-21 - A lightweight vue admin template, base on Vue 3 + Vite + Pinia + Naive UI，free and elegant.
 * [zce/fearless](https://github.com/zce/fearless) ⭐ 1,308 | 🐛 15 | 🌐 TypeScript | 📅 2026-08-26 - A dashboard scaffolding based on Vue.js 3.x & TypeScript created by Vite.
 * [Robot Admin](https://github.com/ChenyCHENYU/Robot_Admin) ⭐ 1,015 | 🐛 2 | 🌐 Vue | 📅 2026-08-09 - A modern, enterprise-grade, out-of-the-box, plugin-level multi-modal architecture admin management system.
 * [Admin Work](https://github.com/qingqingxuan/admin-work) ⭐ 654 | 🐛 4 | 🌐 Vue | 📅 2025-06-17 -A free open source, powerful, easy to use, beautiful back-office management system solution.
@@ -83,7 +83,7 @@ Please see [CONTRIBUTING.md](https://github.com/naive-ui/awesome-naive/blob/main
 ### Related To NaiveUI
 
 * [xicons](https://github.com/07akioni/xicons) ⭐ 1,491 | 🐛 56 | 🌐 JavaScript | 📅 2025-11-16 - SVG icon integrated component Library.
-* [vueuc](https://github.com/07akioni/vueuc) ⭐ 314 | 🐛 30 | 🌐 TypeScript | 📅 2026-08-19 - Utils Components for Vue.
+* [vueuc](https://github.com/07akioni/vueuc) ⭐ 313 | 🐛 30 | 🌐 TypeScript | 📅 2026-08-19 - Utils Components for Vue.
 * [treemate](https://github.com/07akioni/treemate) ⭐ 157 | 🐛 12 | 🌐 TypeScript | 📅 2024-03-22 - All in one solution for tree structure in component developling.
 * [vooks](https://github.com/07akioni/vooks) ⭐ 47 | 🐛 11 | 🌐 TypeScript | 📅 2023-03-06 - Utils Composable for Vue.
 * [evtd](https://github.com/07akioni/evtd) ⭐ 25 | 🐛 8 | 🌐 TypeScript | 📅 2023-03-07 - Event delegation with native events and extended events in a small library.
@@ -94,4 +94,4 @@ Please see [CONTRIBUTING.md](https://github.com/naive-ui/awesome-naive/blob/main
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-28._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-29._
