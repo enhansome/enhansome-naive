@@ -49,7 +49,7 @@
                 "open_issues": 6,
                 "owner": "soybeanjs",
                 "repo": "soybean-admin",
-                "stars": 14908,
+                "stars": 14910,
                 "topics": [
                   "admin",
                   "admin-template",
@@ -110,7 +110,7 @@
                 "open_issues": 2,
                 "owner": "zclzone",
                 "repo": "vue-naive-admin",
-                "stars": 3985,
+                "stars": 3986,
                 "topics": [
                   "admin",
                   "javascript",
@@ -1143,7 +1143,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T15:44:49.435Z",
+    "last_updated": "2026-08-30T15:26:58.597Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things related to Naive UI",
