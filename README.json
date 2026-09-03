@@ -49,7 +49,7 @@
                 "open_issues": 6,
                 "owner": "soybeanjs",
                 "repo": "soybean-admin",
-                "stars": 14934,
+                "stars": 14944,
                 "topics": [
                   "admin",
                   "admin-template",
@@ -83,7 +83,7 @@
                 "open_issues": 36,
                 "owner": "jekip",
                 "repo": "naive-ui-admin",
-                "stars": 5904,
+                "stars": 5905,
                 "topics": [
                   "naive",
                   "naive-ui",
@@ -140,8 +140,8 @@
                 "id": 172046668,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-08-26T15:12:59Z",
-                "open_issues": 15,
+                "last_commit": "2026-09-03T12:11:54Z",
+                "open_issues": 16,
                 "owner": "zce",
                 "repo": "fearless",
                 "stars": 1308,
@@ -294,7 +294,7 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2023-05-28T10:14:14Z",
-                "open_issues": 5,
+                "open_issues": 6,
                 "owner": "zmtlwzy",
                 "repo": "zmtlwzy-admin",
                 "stars": 94,
@@ -467,10 +467,10 @@
                 "language": "Java",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-02T02:34:20Z",
-                "open_issues": 134,
+                "open_issues": 135,
                 "owner": "apache",
                 "repo": "dolphinscheduler",
-                "stars": 14456,
+                "stars": 14461,
                 "topics": [
                   "airflow",
                   "azkaban",
@@ -952,7 +952,7 @@
                 "open_issues": 56,
                 "owner": "07akioni",
                 "repo": "xicons",
-                "stars": 1492,
+                "stars": 1493,
                 "topics": [
                   "icons",
                   "react",
@@ -1019,7 +1019,7 @@
                 "open_issues": 11,
                 "owner": "07akioni",
                 "repo": "vooks",
-                "stars": 47,
+                "stars": 48,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:29:44.085Z"
@@ -1143,7 +1143,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-02T15:15:39.928Z",
+    "last_updated": "2026-09-03T15:09:12.452Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things related to Naive UI",
