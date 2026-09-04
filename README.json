@@ -49,7 +49,7 @@
                 "open_issues": 6,
                 "owner": "soybeanjs",
                 "repo": "soybean-admin",
-                "stars": 14944,
+                "stars": 14952,
                 "topics": [
                   "admin",
                   "admin-template",
@@ -83,7 +83,7 @@
                 "open_issues": 36,
                 "owner": "jekip",
                 "repo": "naive-ui-admin",
-                "stars": 5905,
+                "stars": 5904,
                 "topics": [
                   "naive",
                   "naive-ui",
@@ -110,7 +110,7 @@
                 "open_issues": 2,
                 "owner": "zclzone",
                 "repo": "vue-naive-admin",
-                "stars": 3985,
+                "stars": 3986,
                 "topics": [
                   "admin",
                   "javascript",
@@ -140,7 +140,7 @@
                 "id": 172046668,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-03T12:11:54Z",
+                "last_commit": "2026-09-03T21:57:30Z",
                 "open_issues": 16,
                 "owner": "zce",
                 "repo": "fearless",
@@ -466,11 +466,11 @@
                 "id": 173335706,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-02T02:34:20Z",
-                "open_issues": 135,
+                "last_commit": "2026-09-04T08:00:36Z",
+                "open_issues": 133,
                 "owner": "apache",
                 "repo": "dolphinscheduler",
-                "stars": 14461,
+                "stars": 14459,
                 "topics": [
                   "airflow",
                   "azkaban",
@@ -533,7 +533,7 @@
                 "open_issues": 0,
                 "owner": "LibreService",
                 "repo": "my_rime",
-                "stars": 437,
+                "stars": 438,
                 "topics": [
                   "lua",
                   "naive-ui",
@@ -1143,7 +1143,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T15:09:12.452Z",
+    "last_updated": "2026-09-04T15:04:37.364Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things related to Naive UI",
