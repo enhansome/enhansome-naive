@@ -49,7 +49,7 @@
                 "open_issues": 6,
                 "owner": "soybeanjs",
                 "repo": "soybean-admin",
-                "stars": 14956,
+                "stars": 14962,
                 "topics": [
                   "admin",
                   "admin-template",
@@ -169,7 +169,7 @@
                 "id": 958312991,
                 "language": "Vue",
                 "license": "MIT",
-                "last_commit": "2026-09-02T10:27:44Z",
+                "last_commit": "2026-09-06T10:17:33Z",
                 "open_issues": 2,
                 "owner": "ChenyCHENYU",
                 "repo": "Robot_Admin",
@@ -466,8 +466,8 @@
                 "id": 173335706,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-04T08:00:36Z",
-                "open_issues": 134,
+                "last_commit": "2026-09-06T08:58:20Z",
+                "open_issues": 132,
                 "owner": "apache",
                 "repo": "dolphinscheduler",
                 "stars": 14458,
@@ -620,7 +620,7 @@
                 "id": 362653820,
                 "language": "Vue",
                 "license": "MIT",
-                "last_commit": "2026-08-29T06:59:20Z",
+                "last_commit": "2026-09-05T23:47:22Z",
                 "open_issues": 12,
                 "owner": "aisen60",
                 "repo": "vant-theme",
@@ -1143,7 +1143,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T13:59:03.596Z",
+    "last_updated": "2026-09-06T14:21:58.107Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things related to Naive UI",
