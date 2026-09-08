@@ -45,11 +45,11 @@
                 "id": 404414397,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-08-13T10:11:13Z",
+                "last_commit": "2026-09-07T18:38:07Z",
                 "open_issues": 6,
                 "owner": "soybeanjs",
                 "repo": "soybean-admin",
-                "stars": 14967,
+                "stars": 14975,
                 "topics": [
                   "admin",
                   "admin-template",
@@ -83,7 +83,7 @@
                 "open_issues": 36,
                 "owner": "jekip",
                 "repo": "naive-ui-admin",
-                "stars": 5906,
+                "stars": 5908,
                 "topics": [
                   "naive",
                   "naive-ui",
@@ -140,7 +140,7 @@
                 "id": 172046668,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-03T21:57:30Z",
+                "last_commit": "2026-09-07T21:24:40Z",
                 "open_issues": 16,
                 "owner": "zce",
                 "repo": "fearless",
@@ -169,11 +169,11 @@
                 "id": 958312991,
                 "language": "Vue",
                 "license": "MIT",
-                "last_commit": "2026-09-07T14:50:30Z",
+                "last_commit": "2026-09-08T08:00:48Z",
                 "open_issues": 2,
                 "owner": "ChenyCHENYU",
                 "repo": "Robot_Admin",
-                "stars": 1015,
+                "stars": 1016,
                 "topics": [
                   "axios",
                   "bun",
@@ -466,11 +466,11 @@
                 "id": 173335706,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-07T06:40:28Z",
-                "open_issues": 128,
+                "last_commit": "2026-09-08T06:06:54Z",
+                "open_issues": 132,
                 "owner": "apache",
                 "repo": "dolphinscheduler",
-                "stars": 14457,
+                "stars": 14460,
                 "topics": [
                   "airflow",
                   "azkaban",
@@ -503,7 +503,7 @@
                 "open_issues": 4,
                 "owner": "AnsGoo",
                 "repo": "openDataV",
-                "stars": 1364,
+                "stars": 1365,
                 "topics": [
                   "bigscreen",
                   "datav",
@@ -952,7 +952,7 @@
                 "open_issues": 56,
                 "owner": "07akioni",
                 "repo": "xicons",
-                "stars": 1493,
+                "stars": 1492,
                 "topics": [
                   "icons",
                   "react",
@@ -1143,7 +1143,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-07T16:38:00.285Z",
+    "last_updated": "2026-09-08T15:16:30.963Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things related to Naive UI",
