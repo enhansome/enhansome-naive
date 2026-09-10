@@ -49,7 +49,7 @@
                 "open_issues": 6,
                 "owner": "soybeanjs",
                 "repo": "soybean-admin",
-                "stars": 14980,
+                "stars": 14984,
                 "topics": [
                   "admin",
                   "admin-template",
@@ -83,7 +83,7 @@
                 "open_issues": 36,
                 "owner": "jekip",
                 "repo": "naive-ui-admin",
-                "stars": 5908,
+                "stars": 5909,
                 "topics": [
                   "naive",
                   "naive-ui",
@@ -140,7 +140,7 @@
                 "id": 172046668,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-07T21:24:40Z",
+                "last_commit": "2026-09-09T21:15:09Z",
                 "open_issues": 16,
                 "owner": "zce",
                 "repo": "fearless",
@@ -624,7 +624,7 @@
                 "open_issues": 12,
                 "owner": "aisen60",
                 "repo": "vant-theme",
-                "stars": 112,
+                "stars": 111,
                 "topics": [
                   "vant",
                   "vant-theme"
@@ -1143,7 +1143,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-09T15:15:37.340Z",
+    "last_updated": "2026-09-10T15:07:37.878Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things related to Naive UI",
