@@ -49,7 +49,7 @@
                 "open_issues": 6,
                 "owner": "soybeanjs",
                 "repo": "soybean-admin",
-                "stars": 14984,
+                "stars": 14988,
                 "topics": [
                   "admin",
                   "admin-template",
@@ -83,7 +83,7 @@
                 "open_issues": 36,
                 "owner": "jekip",
                 "repo": "naive-ui-admin",
-                "stars": 5909,
+                "stars": 5910,
                 "topics": [
                   "naive",
                   "naive-ui",
@@ -140,7 +140,7 @@
                 "id": 172046668,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-09T21:15:09Z",
+                "last_commit": "2026-09-10T17:14:27Z",
                 "open_issues": 16,
                 "owner": "zce",
                 "repo": "fearless",
@@ -169,7 +169,7 @@
                 "id": 958312991,
                 "language": "Vue",
                 "license": "MIT",
-                "last_commit": "2026-09-09T11:40:57Z",
+                "last_commit": "2026-09-10T15:56:36Z",
                 "open_issues": 2,
                 "owner": "ChenyCHENYU",
                 "repo": "Robot_Admin",
@@ -466,11 +466,11 @@
                 "id": 173335706,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-09T08:54:47Z",
-                "open_issues": 129,
+                "last_commit": "2026-09-11T05:45:00Z",
+                "open_issues": 134,
                 "owner": "apache",
                 "repo": "dolphinscheduler",
-                "stars": 14462,
+                "stars": 14463,
                 "topics": [
                   "airflow",
                   "azkaban",
@@ -1143,7 +1143,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-10T15:07:37.878Z",
+    "last_updated": "2026-09-11T15:09:30.247Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things related to Naive UI",
