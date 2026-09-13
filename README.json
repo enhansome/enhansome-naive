@@ -173,7 +173,7 @@
                 "open_issues": 2,
                 "owner": "ChenyCHENYU",
                 "repo": "Robot_Admin",
-                "stars": 1016,
+                "stars": 1017,
                 "topics": [
                   "axios",
                   "bun",
@@ -470,7 +470,7 @@
                 "open_issues": 132,
                 "owner": "apache",
                 "repo": "dolphinscheduler",
-                "stars": 14466,
+                "stars": 14467,
                 "topics": [
                   "airflow",
                   "azkaban",
@@ -1143,7 +1143,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T14:20:05.624Z",
+    "last_updated": "2026-09-13T15:01:15.527Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things related to Naive UI",
