@@ -49,7 +49,7 @@
                 "open_issues": 6,
                 "owner": "soybeanjs",
                 "repo": "soybean-admin",
-                "stars": 14991,
+                "stars": 14996,
                 "topics": [
                   "admin",
                   "admin-template",
@@ -144,7 +144,7 @@
                 "open_issues": 16,
                 "owner": "zce",
                 "repo": "fearless",
-                "stars": 1309,
+                "stars": 1310,
                 "topics": [
                   "naive-ui",
                   "typescript",
@@ -169,7 +169,7 @@
                 "id": 958312991,
                 "language": "Vue",
                 "license": "MIT",
-                "last_commit": "2026-09-10T15:56:36Z",
+                "last_commit": "2026-09-14T04:51:32Z",
                 "open_issues": 2,
                 "owner": "ChenyCHENYU",
                 "repo": "Robot_Admin",
@@ -466,11 +466,11 @@
                 "id": 173335706,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-12T05:44:08Z",
-                "open_issues": 132,
+                "last_commit": "2026-09-14T08:15:55Z",
+                "open_issues": 130,
                 "owner": "apache",
                 "repo": "dolphinscheduler",
-                "stars": 14467,
+                "stars": 14469,
                 "topics": [
                   "airflow",
                   "azkaban",
@@ -899,7 +899,7 @@
                 "id": 1038442949,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-09T11:02:01Z",
+                "last_commit": "2026-09-14T01:57:13Z",
                 "open_issues": 0,
                 "owner": "ChenyCHENYU",
                 "repo": "naive-ui-components",
@@ -1143,7 +1143,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-13T15:01:15.527Z",
+    "last_updated": "2026-09-14T17:01:59.130Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things related to Naive UI",
