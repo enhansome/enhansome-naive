@@ -49,7 +49,7 @@
                 "open_issues": 7,
                 "owner": "soybeanjs",
                 "repo": "soybean-admin",
-                "stars": 15023,
+                "stars": 15024,
                 "topics": [
                   "admin",
                   "admin-template",
@@ -83,7 +83,7 @@
                 "open_issues": 36,
                 "owner": "jekip",
                 "repo": "naive-ui-admin",
-                "stars": 5916,
+                "stars": 5915,
                 "topics": [
                   "naive",
                   "naive-ui",
@@ -110,7 +110,7 @@
                 "open_issues": 1,
                 "owner": "zclzone",
                 "repo": "vue-naive-admin",
-                "stars": 3987,
+                "stars": 3986,
                 "topics": [
                   "admin",
                   "javascript",
@@ -173,7 +173,7 @@
                 "open_issues": 2,
                 "owner": "ChenyCHENYU",
                 "repo": "Robot_Admin",
-                "stars": 1017,
+                "stars": 1018,
                 "topics": [
                   "axios",
                   "bun",
@@ -466,11 +466,11 @@
                 "id": 173335706,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-18T03:35:39Z",
+                "last_commit": "2026-09-21T12:04:41Z",
                 "open_issues": 130,
                 "owner": "apache",
                 "repo": "dolphinscheduler",
-                "stars": 14488,
+                "stars": 14491,
                 "topics": [
                   "airflow",
                   "azkaban",
@@ -533,7 +533,7 @@
                 "open_issues": 0,
                 "owner": "LibreService",
                 "repo": "my_rime",
-                "stars": 439,
+                "stars": 440,
                 "topics": [
                   "lua",
                   "naive-ui",
@@ -1143,7 +1143,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-20T14:48:35.495Z",
+    "last_updated": "2026-09-21T17:09:56.172Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things related to Naive UI",
