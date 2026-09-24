@@ -21,7 +21,7 @@
                 "open_issues": 0,
                 "owner": "Talljack",
                 "repo": "naive-ui-provider",
-                "stars": 21,
+                "stars": 22,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:29:44.085Z"
@@ -83,7 +83,7 @@
                 "open_issues": 36,
                 "owner": "jekip",
                 "repo": "naive-ui-admin",
-                "stars": 5916,
+                "stars": 5917,
                 "topics": [
                   "naive",
                   "naive-ui",
@@ -140,7 +140,7 @@
                 "id": 172046668,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-18T21:14:47Z",
+                "last_commit": "2026-09-24T03:07:28Z",
                 "open_issues": 16,
                 "owner": "zce",
                 "repo": "fearless",
@@ -466,11 +466,11 @@
                 "id": 173335706,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-23T14:14:35Z",
-                "open_issues": 130,
+                "last_commit": "2026-09-24T03:19:46Z",
+                "open_issues": 128,
                 "owner": "apache",
                 "repo": "dolphinscheduler",
-                "stars": 14498,
+                "stars": 14500,
                 "topics": [
                   "airflow",
                   "azkaban",
@@ -503,7 +503,7 @@
                 "open_issues": 4,
                 "owner": "AnsGoo",
                 "repo": "openDataV",
-                "stars": 1367,
+                "stars": 1368,
                 "topics": [
                   "bigscreen",
                   "datav",
@@ -562,7 +562,7 @@
                 "open_issues": 0,
                 "owner": "path-yu",
                 "repo": "vue3-cloud-music",
-                "stars": 355,
+                "stars": 354,
                 "topics": [
                   "composition-api",
                   "eslint",
@@ -1143,7 +1143,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-23T15:32:45.643Z",
+    "last_updated": "2026-09-24T15:53:34.992Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things related to Naive UI",
