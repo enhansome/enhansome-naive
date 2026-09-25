@@ -110,7 +110,7 @@
                 "open_issues": 1,
                 "owner": "zclzone",
                 "repo": "vue-naive-admin",
-                "stars": 3987,
+                "stars": 3986,
                 "topics": [
                   "admin",
                   "javascript",
@@ -140,7 +140,7 @@
                 "id": 172046668,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-24T03:07:28Z",
+                "last_commit": "2026-09-24T21:46:19Z",
                 "open_issues": 16,
                 "owner": "zce",
                 "repo": "fearless",
@@ -470,7 +470,7 @@
                 "open_issues": 128,
                 "owner": "apache",
                 "repo": "dolphinscheduler",
-                "stars": 14500,
+                "stars": 14501,
                 "topics": [
                   "airflow",
                   "azkaban",
@@ -1143,7 +1143,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-24T15:53:34.992Z",
+    "last_updated": "2026-09-25T15:54:31.742Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things related to Naive UI",
