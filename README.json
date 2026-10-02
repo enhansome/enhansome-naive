@@ -140,7 +140,7 @@
                 "id": 172046668,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-01T15:17:15Z",
+                "last_commit": "2026-10-02T09:15:41Z",
                 "open_issues": 16,
                 "owner": "zce",
                 "repo": "fearless",
@@ -169,7 +169,7 @@
                 "id": 958312991,
                 "language": "Vue",
                 "license": "MIT",
-                "last_commit": "2026-10-01T16:49:49Z",
+                "last_commit": "2026-10-02T09:03:06Z",
                 "open_issues": 1,
                 "owner": "ChenyCHENYU",
                 "repo": "Robot_Admin",
@@ -467,10 +467,10 @@
                 "language": "Java",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-30T08:10:27Z",
-                "open_issues": 129,
+                "open_issues": 130,
                 "owner": "apache",
                 "repo": "dolphinscheduler",
-                "stars": 14506,
+                "stars": 14507,
                 "topics": [
                   "airflow",
                   "azkaban",
@@ -1143,7 +1143,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-01T17:28:18.518Z",
+    "last_updated": "2026-10-02T16:47:55.420Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things related to Naive UI",
