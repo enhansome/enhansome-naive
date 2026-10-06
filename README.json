@@ -45,11 +45,11 @@
                 "id": 404414397,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-07T18:38:07Z",
+                "last_commit": "2026-10-06T07:28:32Z",
                 "open_issues": 7,
                 "owner": "soybeanjs",
                 "repo": "soybean-admin",
-                "stars": 15050,
+                "stars": 15051,
                 "topics": [
                   "admin",
                   "admin-template",
@@ -83,7 +83,7 @@
                 "open_issues": 36,
                 "owner": "jekip",
                 "repo": "naive-ui-admin",
-                "stars": 5919,
+                "stars": 5920,
                 "topics": [
                   "naive",
                   "naive-ui",
@@ -110,7 +110,7 @@
                 "open_issues": 1,
                 "owner": "zclzone",
                 "repo": "vue-naive-admin",
-                "stars": 3984,
+                "stars": 3985,
                 "topics": [
                   "admin",
                   "javascript",
@@ -140,7 +140,7 @@
                 "id": 172046668,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-02T09:15:41Z",
+                "last_commit": "2026-10-05T18:36:27Z",
                 "open_issues": 16,
                 "owner": "zce",
                 "repo": "fearless",
@@ -237,7 +237,7 @@
                 "open_issues": 0,
                 "owner": "pumelotea",
                 "repo": "happyboot-tiger",
-                "stars": 475,
+                "stars": 474,
                 "topics": [
                   "admin",
                   "happykit",
@@ -466,8 +466,8 @@
                 "id": 173335706,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-30T08:10:27Z",
-                "open_issues": 132,
+                "last_commit": "2026-10-06T02:57:18Z",
+                "open_issues": 126,
                 "owner": "apache",
                 "repo": "dolphinscheduler",
                 "stars": 14507,
@@ -533,7 +533,7 @@
                 "open_issues": 0,
                 "owner": "LibreService",
                 "repo": "my_rime",
-                "stars": 441,
+                "stars": 442,
                 "topics": [
                   "lua",
                   "naive-ui",
@@ -620,7 +620,7 @@
                 "id": 362653820,
                 "language": "Vue",
                 "license": "MIT",
-                "last_commit": "2026-10-03T12:12:06Z",
+                "last_commit": "2026-10-06T07:28:42Z",
                 "open_issues": 12,
                 "owner": "aisen60",
                 "repo": "vant-theme",
@@ -1143,7 +1143,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-04T15:57:37.604Z",
+    "last_updated": "2026-10-06T11:01:44.164Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things related to Naive UI",
