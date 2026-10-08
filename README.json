@@ -45,11 +45,11 @@
                 "id": 404414397,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-07T09:56:36Z",
+                "last_commit": "2026-10-08T13:51:10Z",
                 "open_issues": 7,
                 "owner": "soybeanjs",
                 "repo": "soybean-admin",
-                "stars": 15051,
+                "stars": 15054,
                 "topics": [
                   "admin",
                   "admin-template",
@@ -110,7 +110,7 @@
                 "open_issues": 1,
                 "owner": "zclzone",
                 "repo": "vue-naive-admin",
-                "stars": 3985,
+                "stars": 3984,
                 "topics": [
                   "admin",
                   "javascript",
@@ -169,11 +169,11 @@
                 "id": 958312991,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-07T11:21:29Z",
+                "last_commit": "2026-10-08T13:37:48Z",
                 "open_issues": 1,
                 "owner": "ChenyCHENYU",
                 "repo": "Robot_Admin",
-                "stars": 1020,
+                "stars": 1021,
                 "topics": [
                   "axios",
                   "bun",
@@ -466,11 +466,11 @@
                 "id": 173335706,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-06T02:57:18Z",
-                "open_issues": 128,
+                "last_commit": "2026-10-08T01:31:55Z",
+                "open_issues": 127,
                 "owner": "apache",
                 "repo": "dolphinscheduler",
-                "stars": 14509,
+                "stars": 14512,
                 "topics": [
                   "airflow",
                   "azkaban",
@@ -624,7 +624,7 @@
                 "open_issues": 12,
                 "owner": "aisen60",
                 "repo": "vant-theme",
-                "stars": 111,
+                "stars": 112,
                 "topics": [
                   "vant",
                   "vant-theme"
@@ -899,7 +899,7 @@
                 "id": 1038442949,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-07T11:10:22Z",
+                "last_commit": "2026-10-08T12:56:22Z",
                 "open_issues": 0,
                 "owner": "ChenyCHENYU",
                 "repo": "naive-ui-components",
@@ -1143,7 +1143,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-07T17:56:36.704Z",
+    "last_updated": "2026-10-08T17:58:08.249Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things related to Naive UI",
