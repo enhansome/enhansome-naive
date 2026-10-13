@@ -45,11 +45,11 @@
                 "id": 404414397,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-12T10:49:02Z",
+                "last_commit": "2026-10-13T14:10:05Z",
                 "open_issues": 7,
                 "owner": "soybeanjs",
                 "repo": "soybean-admin",
-                "stars": 15074,
+                "stars": 15078,
                 "topics": [
                   "admin",
                   "admin-template",
@@ -83,7 +83,7 @@
                 "open_issues": 36,
                 "owner": "jekip",
                 "repo": "naive-ui-admin",
-                "stars": 5920,
+                "stars": 5918,
                 "topics": [
                   "naive",
                   "naive-ui",
@@ -140,7 +140,7 @@
                 "id": 172046668,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-05T18:36:27Z",
+                "last_commit": "2026-10-13T16:46:17Z",
                 "open_issues": 16,
                 "owner": "zce",
                 "repo": "fearless",
@@ -164,7 +164,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
-                "description": "一款专为开发者省时间、提效率的现代化中后台模板，跳过低质造轮子，上手即开工！Vue 3 + TS + Naive UI，更有 Bun+Vite 双引擎，性能直接拉满💥 毫秒级热更新不卡顿，开发丝滑，您试试！还有49 个成熟组件，演示页+文档双重完善，无残缺、无坑点，复制即用无需额外调试；配套 8 个 @robot-admin 专属包生态，插件式集成更灵活，轻松适配单体、Monorepo、MicroApp、模块联邦等企业级架构，个人练手、团队协作、大型商业应用，一套模板全搞定！纯为爱发电，不玩虚的！，打磨真实业务场景、高效解决实际难题；",
+                "description": "Robot Admin，从容开工，随业务成长。以 Vue 3、TypeScript 和 Naive UI 打磨界面，搭配 Bun + Vite 带来流畅的开发体验。55 个业务组件、8 个专属生态包，让常用功能拿来就用，复杂需求也有清晰的起点。从单体到 Monorepo、MicroApp 与模块联邦，为不同规模的项目准备合适的架构方案。MIT 开源，持续打磨——让好想法更快成为好作品。",
                 "homepage": "https://robotadmin.cn",
                 "id": 958312991,
                 "language": "TypeScript",
@@ -184,7 +184,6 @@
                   "typescript",
                   "unocss",
                   "vite",
-                  "vite7",
                   "vue3"
                 ]
               },
@@ -206,7 +205,7 @@
                 "open_issues": 4,
                 "owner": "qingqingxuan",
                 "repo": "admin-work",
-                "stars": 654,
+                "stars": 653,
                 "topics": [
                   "axios",
                   "echarts4",
@@ -466,11 +465,11 @@
                 "id": 173335706,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-12T06:31:44Z",
-                "open_issues": 134,
+                "last_commit": "2026-10-13T07:33:12Z",
+                "open_issues": 139,
                 "owner": "apache",
                 "repo": "dolphinscheduler",
-                "stars": 14515,
+                "stars": 14518,
                 "topics": [
                   "airflow",
                   "azkaban",
@@ -1143,7 +1142,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-12T20:24:24.894Z",
+    "last_updated": "2026-10-13T18:28:04.154Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things related to Naive UI",
