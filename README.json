@@ -45,11 +45,11 @@
                 "id": 404414397,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-16T13:52:49Z",
+                "last_commit": "2026-10-17T09:58:54Z",
                 "open_issues": 7,
                 "owner": "soybeanjs",
                 "repo": "soybean-admin",
-                "stars": 15113,
+                "stars": 15123,
                 "topics": [
                   "admin",
                   "admin-template",
@@ -110,7 +110,7 @@
                 "open_issues": 1,
                 "owner": "zclzone",
                 "repo": "vue-naive-admin",
-                "stars": 3986,
+                "stars": 3987,
                 "topics": [
                   "admin",
                   "javascript",
@@ -466,10 +466,10 @@
                 "language": "Java",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-16T12:51:22Z",
-                "open_issues": 141,
+                "open_issues": 126,
                 "owner": "apache",
                 "repo": "dolphinscheduler",
-                "stars": 14525,
+                "stars": 14527,
                 "topics": [
                   "airflow",
                   "azkaban",
@@ -1142,7 +1142,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-16T15:29:07.872Z",
+    "last_updated": "2026-10-17T14:22:09.698Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things related to Naive UI",
