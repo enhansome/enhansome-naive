@@ -140,7 +140,7 @@
                 "id": 172046668,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-20T12:25:01Z",
+                "last_commit": "2026-10-22T14:43:13Z",
                 "open_issues": 16,
                 "owner": "zce",
                 "repo": "fearless",
@@ -408,7 +408,7 @@
                 "open_issues": 2,
                 "owner": "keiko233",
                 "repo": "elaina-theme-netease",
-                "stars": 33,
+                "stars": 34,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:29:44.085Z"
@@ -466,7 +466,7 @@
                 "language": "Java",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-21T09:07:01Z",
-                "open_issues": 120,
+                "open_issues": 122,
                 "owner": "apache",
                 "repo": "dolphinscheduler",
                 "stars": 14528,
@@ -498,8 +498,8 @@
                 "id": 459795802,
                 "language": "TypeScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-21T00:31:28Z",
-                "open_issues": 6,
+                "last_commit": "2026-10-22T14:15:50Z",
+                "open_issues": 4,
                 "owner": "AnsGoo",
                 "repo": "openDataV",
                 "stars": 1370,
@@ -1142,7 +1142,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-21T16:04:19.834Z",
+    "last_updated": "2026-10-22T15:59:36.244Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things related to Naive UI",
