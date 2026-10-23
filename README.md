@@ -34,7 +34,7 @@ Please see [CONTRIBUTING.md](https://github.com/naive-ui/awesome-naive/blob/main
 
 ### Admin Projects Using NaiveUI
 
-* [Soybean Admin](https://github.com/honghuangdc/soybean-admin) ⭐ 15,150 | 🐛 7 | 🌐 TypeScript | 📅 2026-10-21 - a beautiful vue admin template, based on Vue3 + Vite + Naive UI + TypeScript.
+* [Soybean Admin](https://github.com/honghuangdc/soybean-admin) ⭐ 15,155 | 🐛 7 | 🌐 TypeScript | 📅 2026-10-21 - a beautiful vue admin template, based on Vue3 + Vite + Naive UI + TypeScript.
 * [Naive UI Admin](https://github.com/jekip/naive-ui-admin) ⭐ 5,923 | 🐛 32 | 🌐 Vue | 📅 2026-10-21 - A free open source out-of-box UI solution for enterprise applications.
 * [Vue Naive Admin](https://github.com/zclzone/vue-naive-admin) ⭐ 3,984 | 🐛 1 | 🌐 Vue | 📅 2026-08-29 - A lightweight vue admin template, base on Vue 3 + Vite + Pinia + Naive UI，free and elegant.
 * [zce/fearless](https://github.com/zce/fearless) ⭐ 1,309 | 🐛 16 | 🌐 TypeScript | 📅 2026-10-22 - A dashboard scaffolding based on Vue.js 3.x & TypeScript created by Vite.
@@ -53,12 +53,12 @@ Please see [CONTRIBUTING.md](https://github.com/naive-ui/awesome-naive/blob/main
 
 ### Other Projects Using NaiveUI
 
-* [Apache DolphinScheduler](https://github.com/apache/dolphinscheduler) ⭐ 14,528 | 🐛 122 | 🌐 Java | 📅 2026-10-21 - A distributed and easy-to-extend visual workflow scheduler system.
+* [Apache DolphinScheduler](https://github.com/apache/dolphinscheduler) ⭐ 14,531 | 🐛 119 | 🌐 Java | 📅 2026-10-23 - A distributed and easy-to-extend visual workflow scheduler system.
 * [OpenDataV](https://github.com/AnsGoo/openDataV) ⭐ 1,370 | 🐛 4 | 🌐 TypeScript | 📅 2026-10-22 - A cool drag and drop, low code data visualization framework Vue3 + Vite + TypeScript + Naive UI
-* [My RIME](https://github.com/LibreService/my_rime) ⭐ 444 | 🐛 0 | 🌐 TypeScript | 📅 2024-07-19 - Online Chinese IME powered by RIME.
+* [My RIME](https://github.com/LibreService/my_rime) ⭐ 445 | 🐛 0 | 🌐 TypeScript | 📅 2024-07-19 - Online Chinese IME powered by RIME.
 * [vue3-cloud-music](https://github.com/path-yu/vue3-cloud-music) ⭐ 355 | 🐛 0 | 🌐 Vue | 📅 2025-09-19 - Music streaming. Vue3 + Vite + TypeScript + Naive UI
 * [free-core](https://github.com/eamesh/free-core) ⭐ 274 | 🐛 0 | 🌐 TypeScript | 📅 2022-04-23 - A drag and drop cross end page design core, base on Vue 3 + Vite + Naive UI.
-* [Aisen60/vant-theme](https://github.com/Aisen60/vant-theme) ⭐ 112 | 🐛 12 | 🌐 Vue | 📅 2026-10-15 - Online theme preview tool built on vant UI
+* [Aisen60/vant-theme](https://github.com/Aisen60/vant-theme) ⭐ 112 | 🐛 13 | 🌐 Vue | 📅 2026-10-15 - Online theme preview tool built on vant UI
 * [SymPy Beta](https://github.com/eagleoflqj/sympy_beta) ⭐ 72 | 🐛 13 | 🌐 Python | 📅 2026-08-03 - An answer engine without backend, powered by SymPy and Pyodide.
 * [Sweetforms](https://github.com/ChronicStone/VueSweetforms) ⭐ 29 | 🐛 2 | 🌐 TypeScript | 📅 2023-10-15 - A feature rich schema-based form generator package build with Naive UI + Typescript.
 * [naive-ui-form-creator](https://github.com/doom-9/naive-ui-form-creator) ⭐ 16 | 🐛 1 | 🌐 Vue | 📅 2022-07-15 - A visual form generator with rich functions based on naive UI.
@@ -94,4 +94,4 @@ Please see [CONTRIBUTING.md](https://github.com/naive-ui/awesome-naive/blob/main
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-23._
