@@ -49,7 +49,7 @@
                 "open_issues": 7,
                 "owner": "soybeanjs",
                 "repo": "soybean-admin",
-                "stars": 15158,
+                "stars": 15162,
                 "topics": [
                   "admin",
                   "admin-template",
@@ -83,7 +83,7 @@
                 "open_issues": 32,
                 "owner": "jekip",
                 "repo": "naive-ui-admin",
-                "stars": 5923,
+                "stars": 5925,
                 "topics": [
                   "naive",
                   "naive-ui",
@@ -169,7 +169,7 @@
                 "id": 958312991,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-24T14:09:17Z",
+                "last_commit": "2026-10-25T14:13:45Z",
                 "open_issues": 1,
                 "owner": "ChenyCHENYU",
                 "repo": "Robot_Admin",
@@ -466,10 +466,10 @@
                 "language": "Java",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-24T06:03:46Z",
-                "open_issues": 116,
+                "open_issues": 115,
                 "owner": "apache",
                 "repo": "dolphinscheduler",
-                "stars": 14531,
+                "stars": 14533,
                 "topics": [
                   "airflow",
                   "azkaban",
@@ -498,8 +498,8 @@
                 "id": 459795802,
                 "language": "TypeScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-24T11:00:14Z",
-                "open_issues": 4,
+                "last_commit": "2026-10-24T14:48:14Z",
+                "open_issues": 6,
                 "owner": "AnsGoo",
                 "repo": "openDataV",
                 "stars": 1370,
@@ -552,8 +552,8 @@
               "children": [],
               "repo_info": {
                 "archived": false,
-                "description": "基于Vue3+Vite+TypeScript+compositionApi+naiveui构建的精致的支持夜间模式网易云音乐流媒体网站webApp",
-                "homepage": "https://cloud-music-eight-nu.vercel.app/#/discovery",
+                "description": "不在维护,已迁移到新仓库,链接如下,基于Vue3+Vite+TypeScript+compositionApi+naiveui构建的精致的支持夜间模式网易云音乐流媒体网站webApp,",
+                "homepage": "https://github.com/path-yu/react-better-music",
                 "id": 474968846,
                 "language": "Vue",
                 "license": null,
@@ -1142,7 +1142,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-24T14:48:00.526Z",
+    "last_updated": "2026-10-25T15:01:23.835Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things related to Naive UI",
