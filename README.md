@@ -34,11 +34,11 @@ Please see [CONTRIBUTING.md](https://github.com/naive-ui/awesome-naive/blob/main
 
 ### Admin Projects Using NaiveUI
 
-* [Soybean Admin](https://github.com/honghuangdc/soybean-admin) ⭐ 15,162 | 🐛 7 | 🌐 TypeScript | 📅 2026-10-21 - a beautiful vue admin template, based on Vue3 + Vite + Naive UI + TypeScript.
-* [Naive UI Admin](https://github.com/jekip/naive-ui-admin) ⭐ 5,925 | 🐛 32 | 🌐 Vue | 📅 2026-10-21 - A free open source out-of-box UI solution for enterprise applications.
-* [Vue Naive Admin](https://github.com/zclzone/vue-naive-admin) ⭐ 3,984 | 🐛 1 | 🌐 Vue | 📅 2026-08-29 - A lightweight vue admin template, base on Vue 3 + Vite + Pinia + Naive UI，free and elegant.
-* [zce/fearless](https://github.com/zce/fearless) ⭐ 1,309 | 🐛 16 | 🌐 TypeScript | 📅 2026-10-22 - A dashboard scaffolding based on Vue.js 3.x & TypeScript created by Vite.
-* [Robot Admin](https://github.com/ChenyCHENYU/Robot_Admin) ⭐ 1,025 | 🐛 1 | 🌐 TypeScript | 📅 2026-10-25 - A modern, enterprise-grade, out-of-the-box, plugin-level multi-modal architecture admin management system.
+* [Soybean Admin](https://github.com/honghuangdc/soybean-admin) ⭐ 15,163 | 🐛 7 | 🌐 TypeScript | 📅 2026-10-21 - a beautiful vue admin template, based on Vue3 + Vite + Naive UI + TypeScript.
+* [Naive UI Admin](https://github.com/jekip/naive-ui-admin) ⭐ 5,926 | 🐛 32 | 🌐 Vue | 📅 2026-10-21 - A free open source out-of-box UI solution for enterprise applications.
+* [Vue Naive Admin](https://github.com/zclzone/vue-naive-admin) ⭐ 3,985 | 🐛 1 | 🌐 Vue | 📅 2026-08-29 - A lightweight vue admin template, base on Vue 3 + Vite + Pinia + Naive UI，free and elegant.
+* [zce/fearless](https://github.com/zce/fearless) ⭐ 1,309 | 🐛 16 | 🌐 TypeScript | 📅 2026-10-26 - A dashboard scaffolding based on Vue.js 3.x & TypeScript created by Vite.
+* [Robot Admin](https://github.com/ChenyCHENYU/Robot_Admin) ⭐ 1,025 | 🐛 1 | 🌐 TypeScript | 📅 2026-10-26 - A modern, enterprise-grade, out-of-the-box, plugin-level multi-modal architecture admin management system.
 * [Admin Work](https://github.com/qingqingxuan/admin-work) ⭐ 653 | 🐛 4 | 🌐 Vue | 📅 2025-06-17 -A free open source, powerful, easy to use, beautiful back-office management system solution.
 * [happyboot-tiger](https://github.com/pumelotea/happyboot-tiger) ⭐ 472 | 🐛 0 | 🌐 Vue | 📅 2024-12-27 - A backend management template, base on Vue 3 + Vite 2 + Naive UI.
 * [tsx-naive-admin](https://github.com/WalkAlone0325/tsx-naive-admin) ⭐ 111 | 🐛 0 | 🌐 TypeScript | 📅 2025-04-25 - A backend management template based on Vue 3 + Naive UI + TSX + Vite.
@@ -53,8 +53,8 @@ Please see [CONTRIBUTING.md](https://github.com/naive-ui/awesome-naive/blob/main
 
 ### Other Projects Using NaiveUI
 
-* [Apache DolphinScheduler](https://github.com/apache/dolphinscheduler) ⭐ 14,533 | 🐛 115 | 🌐 Java | 📅 2026-10-24 - A distributed and easy-to-extend visual workflow scheduler system.
-* [OpenDataV](https://github.com/AnsGoo/openDataV) ⭐ 1,370 | 🐛 6 | 🌐 TypeScript | 📅 2026-10-24 - A cool drag and drop, low code data visualization framework Vue3 + Vite + TypeScript + Naive UI
+* [Apache DolphinScheduler](https://github.com/apache/dolphinscheduler) ⭐ 14,537 | 🐛 115 | 🌐 Java | 📅 2026-10-24 - A distributed and easy-to-extend visual workflow scheduler system.
+* [OpenDataV](https://github.com/AnsGoo/openDataV) ⭐ 1,370 | 🐛 4 | 🌐 TypeScript | 📅 2026-10-26 - A cool drag and drop, low code data visualization framework Vue3 + Vite + TypeScript + Naive UI
 * [My RIME](https://github.com/LibreService/my_rime) ⭐ 445 | 🐛 0 | 🌐 TypeScript | 📅 2024-07-19 - Online Chinese IME powered by RIME.
 * [vue3-cloud-music](https://github.com/path-yu/vue3-cloud-music) ⭐ 355 | 🐛 0 | 🌐 Vue | 📅 2025-09-19 - Music streaming. Vue3 + Vite + TypeScript + Naive UI
 * [free-core](https://github.com/eamesh/free-core) ⭐ 274 | 🐛 0 | 🌐 TypeScript | 📅 2022-04-23 - A drag and drop cross end page design core, base on Vue 3 + Vite + Naive UI.
@@ -94,4 +94,4 @@ Please see [CONTRIBUTING.md](https://github.com/naive-ui/awesome-naive/blob/main
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-26._

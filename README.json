@@ -49,7 +49,7 @@
                 "open_issues": 7,
                 "owner": "soybeanjs",
                 "repo": "soybean-admin",
-                "stars": 15162,
+                "stars": 15163,
                 "topics": [
                   "admin",
                   "admin-template",
@@ -83,7 +83,7 @@
                 "open_issues": 32,
                 "owner": "jekip",
                 "repo": "naive-ui-admin",
-                "stars": 5925,
+                "stars": 5926,
                 "topics": [
                   "naive",
                   "naive-ui",
@@ -110,7 +110,7 @@
                 "open_issues": 1,
                 "owner": "zclzone",
                 "repo": "vue-naive-admin",
-                "stars": 3984,
+                "stars": 3985,
                 "topics": [
                   "admin",
                   "javascript",
@@ -140,7 +140,7 @@
                 "id": 172046668,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-22T14:43:13Z",
+                "last_commit": "2026-10-26T17:16:29Z",
                 "open_issues": 16,
                 "owner": "zce",
                 "repo": "fearless",
@@ -169,7 +169,7 @@
                 "id": 958312991,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-25T14:13:45Z",
+                "last_commit": "2026-10-26T14:22:15Z",
                 "open_issues": 1,
                 "owner": "ChenyCHENYU",
                 "repo": "Robot_Admin",
@@ -469,7 +469,7 @@
                 "open_issues": 115,
                 "owner": "apache",
                 "repo": "dolphinscheduler",
-                "stars": 14533,
+                "stars": 14537,
                 "topics": [
                   "airflow",
                   "azkaban",
@@ -498,8 +498,8 @@
                 "id": 459795802,
                 "language": "TypeScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-24T14:48:14Z",
-                "open_issues": 6,
+                "last_commit": "2026-10-26T11:48:53Z",
+                "open_issues": 4,
                 "owner": "AnsGoo",
                 "repo": "openDataV",
                 "stars": 1370,
@@ -1142,7 +1142,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-25T15:01:23.835Z",
+    "last_updated": "2026-10-26T17:35:53.329Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things related to Naive UI",
