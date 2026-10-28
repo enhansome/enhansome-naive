@@ -34,12 +34,12 @@ Please see [CONTRIBUTING.md](https://github.com/naive-ui/awesome-naive/blob/main
 
 ### Admin Projects Using NaiveUI
 
-* [Soybean Admin](https://github.com/honghuangdc/soybean-admin) ⭐ 15,169 | 🐛 7 | 🌐 TypeScript | 📅 2026-10-21 - a beautiful vue admin template, based on Vue3 + Vite + Naive UI + TypeScript.
-* [Naive UI Admin](https://github.com/jekip/naive-ui-admin) ⭐ 5,927 | 🐛 32 | 🌐 Vue | 📅 2026-10-21 - A free open source out-of-box UI solution for enterprise applications.
+* [Soybean Admin](https://github.com/honghuangdc/soybean-admin) ⭐ 15,178 | 🐛 7 | 🌐 TypeScript | 📅 2026-10-21 - a beautiful vue admin template, based on Vue3 + Vite + Naive UI + TypeScript.
+* [Naive UI Admin](https://github.com/jekip/naive-ui-admin) ⭐ 5,928 | 🐛 32 | 🌐 Vue | 📅 2026-10-21 - A free open source out-of-box UI solution for enterprise applications.
 * [Vue Naive Admin](https://github.com/zclzone/vue-naive-admin) ⭐ 3,986 | 🐛 1 | 🌐 Vue | 📅 2026-08-29 - A lightweight vue admin template, base on Vue 3 + Vite + Pinia + Naive UI，free and elegant.
 * [zce/fearless](https://github.com/zce/fearless) ⭐ 1,309 | 🐛 16 | 🌐 TypeScript | 📅 2026-10-26 - A dashboard scaffolding based on Vue.js 3.x & TypeScript created by Vite.
-* [Robot Admin](https://github.com/ChenyCHENYU/Robot_Admin) ⭐ 1,025 | 🐛 1 | 🌐 TypeScript | 📅 2026-10-26 - A modern, enterprise-grade, out-of-the-box, plugin-level multi-modal architecture admin management system.
-* [Admin Work](https://github.com/qingqingxuan/admin-work) ⭐ 653 | 🐛 4 | 🌐 Vue | 📅 2025-06-17 -A free open source, powerful, easy to use, beautiful back-office management system solution.
+* [Robot Admin](https://github.com/ChenyCHENYU/Robot_Admin) ⭐ 1,025 | 🐛 1 | 🌐 TypeScript | 📅 2026-10-28 - A modern, enterprise-grade, out-of-the-box, plugin-level multi-modal architecture admin management system.
+* [Admin Work](https://github.com/qingqingxuan/admin-work) ⭐ 651 | 🐛 4 | 🌐 Vue | 📅 2025-06-17 -A free open source, powerful, easy to use, beautiful back-office management system solution.
 * [happyboot-tiger](https://github.com/pumelotea/happyboot-tiger) ⭐ 472 | 🐛 0 | 🌐 Vue | 📅 2024-12-27 - A backend management template, base on Vue 3 + Vite 2 + Naive UI.
 * [tsx-naive-admin](https://github.com/WalkAlone0325/tsx-naive-admin) ⭐ 111 | 🐛 0 | 🌐 TypeScript | 📅 2025-04-25 - A backend management template based on Vue 3 + Naive UI + TSX + Vite.
 * [zmtlwzy-admin](https://github.com/zmtlwzy/zmtlwzy-admin) ⭐ 94 | 🐛 6 | 🌐 TypeScript | 📅 2023-05-28 - A free open source, original style admin template.
@@ -53,7 +53,7 @@ Please see [CONTRIBUTING.md](https://github.com/naive-ui/awesome-naive/blob/main
 
 ### Other Projects Using NaiveUI
 
-* [Apache DolphinScheduler](https://github.com/apache/dolphinscheduler) ⭐ 14,538 | 🐛 116 | 🌐 Java | 📅 2026-10-24 - A distributed and easy-to-extend visual workflow scheduler system.
+* [Apache DolphinScheduler](https://github.com/apache/dolphinscheduler) ⭐ 14,541 | 🐛 112 | 🌐 Java | 📅 2026-10-28 - A distributed and easy-to-extend visual workflow scheduler system.
 * [OpenDataV](https://github.com/AnsGoo/openDataV) ⭐ 1,370 | 🐛 4 | 🌐 TypeScript | 📅 2026-10-26 - A cool drag and drop, low code data visualization framework Vue3 + Vite + TypeScript + Naive UI
 * [My RIME](https://github.com/LibreService/my_rime) ⭐ 445 | 🐛 0 | 🌐 TypeScript | 📅 2024-07-19 - Online Chinese IME powered by RIME.
 * [vue3-cloud-music](https://github.com/path-yu/vue3-cloud-music) ⭐ 355 | 🐛 0 | 🌐 Vue | 📅 2025-09-19 - Music streaming. Vue3 + Vite + TypeScript + Naive UI
@@ -73,8 +73,8 @@ Please see [CONTRIBUTING.md](https://github.com/naive-ui/awesome-naive/blob/main
 
 ### Third-party components for NaiveUI
 
-* [X.Naive-UI](https://github.com/fudiwei/x.naive-ui) ⭐ 51 | 🐛 0 | 🌐 TypeScript | 📅 2025-02-05 - An extension to the Naive-UI component library, that enables slots and template style API for DataTable/Dropdown/Menu/Select/Tree.
-* [naive-ui-components-plus](https://github.com/ChenyCHENYU/naive-ui-components) ⭐ 7 | 🐛 0 | 🌐 TypeScript | 📅 2026-10-24 - A general business component library based on Naive-UI and Robot Admin, out-of-the-box with comprehensive documentation and clear examples.
+* [X.Naive-UI](https://github.com/fudiwei/x.naive-ui) ⭐ 50 | 🐛 0 | 🌐 TypeScript | 📅 2025-02-05 - An extension to the Naive-UI component library, that enables slots and template style API for DataTable/Dropdown/Menu/Select/Tree.
+* [naive-ui-components-plus](https://github.com/ChenyCHENYU/naive-ui-components) ⭐ 7 | 🐛 0 | 🌐 TypeScript | 📅 2026-10-28 - A general business component library based on Naive-UI and Robot Admin, out-of-the-box with comprehensive documentation and clear examples.
 * [Naive Gradient Picker](https://github.com/MauriceConrad/naive-gradient-picker) ⭐ 0 | 🐛 0 | 🌐 Vue | 📅 2022-11-22 - A lightweight NaiveUI component for selecting gradients based on CSS gradient syntax
 * [naive-ui-components](https://ashuicoder.github.io/naive-ui-components) - Practical components wrapped based on naive-ui, including forms, tables, uploads, etc.
 * [pro-naive-ui](https://naive-ui.pro-components.cn) - Based on Naive UI, it is suitable for middle and background projects, hoping to let you leave work early and spend more time with your family.
@@ -94,4 +94,4 @@ Please see [CONTRIBUTING.md](https://github.com/naive-ui/awesome-naive/blob/main
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-28._
