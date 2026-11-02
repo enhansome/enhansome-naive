@@ -49,7 +49,7 @@
                 "open_issues": 7,
                 "owner": "soybeanjs",
                 "repo": "soybean-admin",
-                "stars": 15231,
+                "stars": 15242,
                 "topics": [
                   "admin",
                   "admin-template",
@@ -83,7 +83,7 @@
                 "open_issues": 32,
                 "owner": "jekip",
                 "repo": "naive-ui-admin",
-                "stars": 5931,
+                "stars": 5933,
                 "topics": [
                   "naive",
                   "naive-ui",
@@ -144,7 +144,7 @@
                 "open_issues": 16,
                 "owner": "zce",
                 "repo": "fearless",
-                "stars": 1309,
+                "stars": 1308,
                 "topics": [
                   "naive-ui",
                   "typescript",
@@ -169,7 +169,7 @@
                 "id": 958312991,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-11-01T14:45:22Z",
+                "last_commit": "2026-11-02T14:47:00Z",
                 "open_issues": 1,
                 "owner": "ChenyCHENYU",
                 "repo": "Robot_Admin",
@@ -205,7 +205,7 @@
                 "open_issues": 4,
                 "owner": "qingqingxuan",
                 "repo": "admin-work",
-                "stars": 651,
+                "stars": 650,
                 "topics": [
                   "axios",
                   "echarts4",
@@ -465,11 +465,11 @@
                 "id": 173335706,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-29T02:24:38Z",
-                "open_issues": 123,
+                "last_commit": "2026-11-02T04:30:54Z",
+                "open_issues": 125,
                 "owner": "apache",
                 "repo": "dolphinscheduler",
-                "stars": 14550,
+                "stars": 14551,
                 "topics": [
                   "airflow",
                   "azkaban",
@@ -898,7 +898,7 @@
                 "id": 1038442949,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-31T20:16:05Z",
+                "last_commit": "2026-11-02T14:27:14Z",
                 "open_issues": 0,
                 "owner": "ChenyCHENYU",
                 "repo": "naive-ui-components",
@@ -951,7 +951,7 @@
                 "open_issues": 57,
                 "owner": "07akioni",
                 "repo": "xicons",
-                "stars": 1500,
+                "stars": 1501,
                 "topics": [
                   "icons",
                   "react",
@@ -1142,7 +1142,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-01T17:13:45.605Z",
+    "last_updated": "2026-11-02T20:52:38.041Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things related to Naive UI",
