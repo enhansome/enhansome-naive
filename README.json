@@ -49,7 +49,7 @@
                 "open_issues": 7,
                 "owner": "soybeanjs",
                 "repo": "soybean-admin",
-                "stars": 15242,
+                "stars": 15252,
                 "topics": [
                   "admin",
                   "admin-template",
@@ -110,7 +110,7 @@
                 "open_issues": 1,
                 "owner": "zclzone",
                 "repo": "vue-naive-admin",
-                "stars": 3986,
+                "stars": 3984,
                 "topics": [
                   "admin",
                   "javascript",
@@ -465,11 +465,11 @@
                 "id": 173335706,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-02T04:30:54Z",
-                "open_issues": 125,
+                "last_commit": "2026-11-03T04:35:03Z",
+                "open_issues": 124,
                 "owner": "apache",
                 "repo": "dolphinscheduler",
-                "stars": 14551,
+                "stars": 14550,
                 "topics": [
                   "airflow",
                   "azkaban",
@@ -502,7 +502,7 @@
                 "open_issues": 4,
                 "owner": "AnsGoo",
                 "repo": "openDataV",
-                "stars": 1370,
+                "stars": 1369,
                 "topics": [
                   "bigscreen",
                   "datav",
@@ -561,7 +561,7 @@
                 "open_issues": 0,
                 "owner": "path-yu",
                 "repo": "vue3-cloud-music",
-                "stars": 355,
+                "stars": 354,
                 "topics": [
                   "composition-api",
                   "eslint",
@@ -595,7 +595,7 @@
                 "open_issues": 0,
                 "owner": "eamesh",
                 "repo": "free-core",
-                "stars": 274,
+                "stars": 272,
                 "topics": [
                   "component-library",
                   "diy",
@@ -951,7 +951,7 @@
                 "open_issues": 57,
                 "owner": "07akioni",
                 "repo": "xicons",
-                "stars": 1501,
+                "stars": 1500,
                 "topics": [
                   "icons",
                   "react",
@@ -1142,7 +1142,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-02T20:52:38.041Z",
+    "last_updated": "2026-11-03T18:38:00.414Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things related to Naive UI",
@@ -1154,7 +1154,7 @@
       "open_issues": 1,
       "owner": "naive-ui",
       "repo": "awesome-naive",
-      "stars": 341,
+      "stars": 342,
       "topics": [
         "awesome",
         "awesome-list",
