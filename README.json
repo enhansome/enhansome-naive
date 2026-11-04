@@ -49,7 +49,7 @@
                 "open_issues": 7,
                 "owner": "soybeanjs",
                 "repo": "soybean-admin",
-                "stars": 15252,
+                "stars": 15257,
                 "topics": [
                   "admin",
                   "admin-template",
@@ -173,7 +173,7 @@
                 "open_issues": 1,
                 "owner": "ChenyCHENYU",
                 "repo": "Robot_Admin",
-                "stars": 1024,
+                "stars": 1022,
                 "topics": [
                   "axios",
                   "bun",
@@ -465,11 +465,11 @@
                 "id": 173335706,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-03T04:35:03Z",
-                "open_issues": 124,
+                "last_commit": "2026-11-04T08:01:41Z",
+                "open_issues": 125,
                 "owner": "apache",
                 "repo": "dolphinscheduler",
-                "stars": 14550,
+                "stars": 14552,
                 "topics": [
                   "airflow",
                   "azkaban",
@@ -1142,7 +1142,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-03T18:38:00.414Z",
+    "last_updated": "2026-11-04T18:48:52.972Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things related to Naive UI",
