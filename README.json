@@ -49,7 +49,7 @@
                 "open_issues": 7,
                 "owner": "soybeanjs",
                 "repo": "soybean-admin",
-                "stars": 15291,
+                "stars": 15302,
                 "topics": [
                   "admin",
                   "admin-template",
@@ -83,7 +83,7 @@
                 "open_issues": 32,
                 "owner": "jekip",
                 "repo": "naive-ui-admin",
-                "stars": 5934,
+                "stars": 5933,
                 "topics": [
                   "naive",
                   "naive-ui",
@@ -144,7 +144,7 @@
                 "open_issues": 16,
                 "owner": "zce",
                 "repo": "fearless",
-                "stars": 1308,
+                "stars": 1309,
                 "topics": [
                   "naive-ui",
                   "typescript",
@@ -205,7 +205,7 @@
                 "open_issues": 4,
                 "owner": "qingqingxuan",
                 "repo": "admin-work",
-                "stars": 650,
+                "stars": 651,
                 "topics": [
                   "axios",
                   "echarts4",
@@ -466,10 +466,10 @@
                 "language": "Java",
                 "license": "Apache-2.0",
                 "last_commit": "2026-11-07T01:23:43Z",
-                "open_issues": 122,
+                "open_issues": 124,
                 "owner": "apache",
                 "repo": "dolphinscheduler",
-                "stars": 14551,
+                "stars": 14553,
                 "topics": [
                   "airflow",
                   "azkaban",
@@ -561,7 +561,7 @@
                 "open_issues": 0,
                 "owner": "path-yu",
                 "repo": "vue3-cloud-music",
-                "stars": 353,
+                "stars": 354,
                 "topics": [
                   "composition-api",
                   "eslint",
@@ -830,7 +830,7 @@
                 "id": 608661765,
                 "language": "JavaScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-07-19T14:15:10Z",
+                "last_commit": "2026-11-10T09:42:58Z",
                 "open_issues": 0,
                 "owner": "nightrunner91",
                 "repo": "listify",
@@ -1142,7 +1142,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-09T21:36:54.021Z",
+    "last_updated": "2026-11-10T18:46:59.446Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things related to Naive UI",
