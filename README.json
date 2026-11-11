@@ -49,7 +49,7 @@
                 "open_issues": 7,
                 "owner": "soybeanjs",
                 "repo": "soybean-admin",
-                "stars": 15302,
+                "stars": 15314,
                 "topics": [
                   "admin",
                   "admin-template",
@@ -83,7 +83,7 @@
                 "open_issues": 32,
                 "owner": "jekip",
                 "repo": "naive-ui-admin",
-                "stars": 5933,
+                "stars": 5934,
                 "topics": [
                   "naive",
                   "naive-ui",
@@ -140,7 +140,7 @@
                 "id": 172046668,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-11-08T11:32:44Z",
+                "last_commit": "2026-11-11T14:18:03Z",
                 "open_issues": 16,
                 "owner": "zce",
                 "repo": "fearless",
@@ -465,11 +465,11 @@
                 "id": 173335706,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-07T01:23:43Z",
-                "open_issues": 124,
+                "last_commit": "2026-11-11T09:04:53Z",
+                "open_issues": 121,
                 "owner": "apache",
                 "repo": "dolphinscheduler",
-                "stars": 14553,
+                "stars": 14552,
                 "topics": [
                   "airflow",
                   "azkaban",
@@ -951,7 +951,7 @@
                 "open_issues": 57,
                 "owner": "07akioni",
                 "repo": "xicons",
-                "stars": 1498,
+                "stars": 1497,
                 "topics": [
                   "icons",
                   "react",
@@ -1142,7 +1142,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-10T18:46:59.446Z",
+    "last_updated": "2026-11-11T18:50:49.025Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things related to Naive UI",
