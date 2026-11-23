@@ -49,7 +49,7 @@
                 "open_issues": 7,
                 "owner": "soybeanjs",
                 "repo": "soybean-admin",
-                "stars": 15357,
+                "stars": 15358,
                 "topics": [
                   "admin",
                   "admin-template",
@@ -83,7 +83,7 @@
                 "open_issues": 32,
                 "owner": "jekip",
                 "repo": "naive-ui-admin",
-                "stars": 5941,
+                "stars": 5940,
                 "topics": [
                   "naive",
                   "naive-ui",
@@ -110,7 +110,7 @@
                 "open_issues": 1,
                 "owner": "zclzone",
                 "repo": "vue-naive-admin",
-                "stars": 3982,
+                "stars": 3983,
                 "topics": [
                   "admin",
                   "javascript",
@@ -465,11 +465,11 @@
                 "id": 173335706,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-22T14:25:52Z",
-                "open_issues": 137,
+                "last_commit": "2026-11-23T09:27:26Z",
+                "open_issues": 136,
                 "owner": "apache",
                 "repo": "dolphinscheduler",
-                "stars": 14563,
+                "stars": 14565,
                 "topics": [
                   "airflow",
                   "azkaban",
@@ -502,7 +502,7 @@
                 "open_issues": 4,
                 "owner": "AnsGoo",
                 "repo": "openDataV",
-                "stars": 1371,
+                "stars": 1372,
                 "topics": [
                   "bigscreen",
                   "datav",
@@ -620,7 +620,7 @@
                 "language": "Vue",
                 "license": "MIT",
                 "last_commit": "2026-10-24T00:13:28Z",
-                "open_issues": 13,
+                "open_issues": 12,
                 "owner": "aisen60",
                 "repo": "vant-theme",
                 "stars": 112,
@@ -948,7 +948,7 @@
                 "language": "JavaScript",
                 "license": null,
                 "last_commit": "2026-11-17T08:14:06Z",
-                "open_issues": 57,
+                "open_issues": 55,
                 "owner": "07akioni",
                 "repo": "xicons",
                 "stars": 1497,
@@ -973,7 +973,7 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-08-19T16:48:36Z",
-                "open_issues": 31,
+                "open_issues": 30,
                 "owner": "07akioni",
                 "repo": "vueuc",
                 "stars": 309,
@@ -1142,7 +1142,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-22T18:37:33.568Z",
+    "last_updated": "2026-11-23T22:52:36.363Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things related to Naive UI",
