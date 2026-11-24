@@ -49,7 +49,7 @@
                 "open_issues": 7,
                 "owner": "soybeanjs",
                 "repo": "soybean-admin",
-                "stars": 15358,
+                "stars": 15363,
                 "topics": [
                   "admin",
                   "admin-template",
@@ -83,7 +83,7 @@
                 "open_issues": 32,
                 "owner": "jekip",
                 "repo": "naive-ui-admin",
-                "stars": 5940,
+                "stars": 5941,
                 "topics": [
                   "naive",
                   "naive-ui",
@@ -110,7 +110,7 @@
                 "open_issues": 1,
                 "owner": "zclzone",
                 "repo": "vue-naive-admin",
-                "stars": 3983,
+                "stars": 3982,
                 "topics": [
                   "admin",
                   "javascript",
@@ -169,7 +169,7 @@
                 "id": 958312991,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-11-15T18:54:24Z",
+                "last_commit": "2026-11-24T08:55:57Z",
                 "open_issues": 1,
                 "owner": "ChenyCHENYU",
                 "repo": "Robot_Admin",
@@ -466,10 +466,10 @@
                 "language": "Java",
                 "license": "Apache-2.0",
                 "last_commit": "2026-11-23T09:27:26Z",
-                "open_issues": 136,
+                "open_issues": 134,
                 "owner": "apache",
                 "repo": "dolphinscheduler",
-                "stars": 14565,
+                "stars": 14566,
                 "topics": [
                   "airflow",
                   "azkaban",
@@ -898,7 +898,7 @@
                 "id": 1038442949,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-11-20T06:50:05Z",
+                "last_commit": "2026-11-24T07:12:38Z",
                 "open_issues": 0,
                 "owner": "ChenyCHENYU",
                 "repo": "naive-ui-components",
@@ -1142,7 +1142,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-23T22:52:36.363Z",
+    "last_updated": "2026-11-24T21:28:00.664Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things related to Naive UI",
