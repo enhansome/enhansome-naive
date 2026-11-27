@@ -49,7 +49,7 @@
                 "open_issues": 7,
                 "owner": "soybeanjs",
                 "repo": "soybean-admin",
-                "stars": 15378,
+                "stars": 15380,
                 "topics": [
                   "admin",
                   "admin-template",
@@ -83,7 +83,7 @@
                 "open_issues": 32,
                 "owner": "jekip",
                 "repo": "naive-ui-admin",
-                "stars": 5939,
+                "stars": 5938,
                 "topics": [
                   "naive",
                   "naive-ui",
@@ -110,7 +110,7 @@
                 "open_issues": 1,
                 "owner": "zclzone",
                 "repo": "vue-naive-admin",
-                "stars": 3983,
+                "stars": 3982,
                 "topics": [
                   "admin",
                   "javascript",
@@ -169,7 +169,7 @@
                 "id": 958312991,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-11-26T04:11:34Z",
+                "last_commit": "2026-11-27T08:10:38Z",
                 "open_issues": 1,
                 "owner": "ChenyCHENYU",
                 "repo": "Robot_Admin",
@@ -465,7 +465,7 @@
                 "id": 173335706,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-26T05:55:40Z",
+                "last_commit": "2026-11-27T11:55:43Z",
                 "open_issues": 135,
                 "owner": "apache",
                 "repo": "dolphinscheduler",
@@ -1142,7 +1142,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-26T20:28:43.034Z",
+    "last_updated": "2026-11-27T20:14:29.730Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things related to Naive UI",
